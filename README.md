@@ -1,11 +1,8 @@
 ## AniLength 1.0
 
-## License: LGPL v3.0
-
-
-AniLength is distributed 'as is'. 
-No warranty of any kind is expressed or implied. 
-You use the program at your own risk.
+## License
+- LGPL v3.0
+- AniLength is distributed 'as is'. No warranty of any kind is expressed or implied. You use the program at your own risk.
 
 
 ## Dedendency
