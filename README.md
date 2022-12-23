@@ -28,9 +28,10 @@ AniLength uses the following compiled libraries:
 ## Addition information
 Complete source codes, executable files, and sample images:
 
-- vgd.hongik.ac.kr/Software/AniLength
-
-- https://github.com/QuantSK/AniLength
+- https://vgd.hongik.ac.kr/Software/AniLength/
+- https://quantlabnote.hongik.ac.kr/Software/AniLength/
+- https://phenocapture.com/Software/AniLength/
+- https://phenocapture.hongik.ac.kr/Software/AniLength/
 
 
 
