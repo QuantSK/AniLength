@@ -1,8 +1,5 @@
 ## AniLength 1.0
-
-## License
-- LGPL v3.0
-- AniLength is distributed 'as is'. No warranty of any kind is expressed or implied. You use the program at your own risk.
+AniLength is an automated image analysis software that measures the body length of small animals in images through hybrid image processing and deep learning network (DNN) based image classification. The software has pre-trained DNN models trained on approximately 16,000 images for Caenorhabditis elegans analysis, as well as performing new training using custom training images.
 
 
 ## Dedendency
@@ -30,6 +27,10 @@ Complete source codes, executable files, and sample images:
 - https://phenocapture.com/Software/AniLength/
 - https://phenocapture.hongik.ac.kr/Software/AniLength/
 
+
+## License
+- LGPL v3.0
+- AniLength is distributed 'as is'. No warranty of any kind is expressed or implied. You use the program at your own risk.
 
 
 ## Contact
